@@ -21,9 +21,9 @@ This repo will include:
 
 ### Need help:
 * Course forums for all tutorial question and course / topic related questions.
-* Contact the CC directly if you need help on your assignment:
+* Contact the CC directly if you need help on your assignment.
 * NOTE: Mike O is employed by CQUni for 2 hours per week ONLY - for the tutorial class.
-* I can answer quick questions via email, but long / involved questions should be asked on the forums or in class.
+* I can answer quick questions via email, but long / involved questions should be asked on the course forums or in class.
 
 
 ### Useful links:
