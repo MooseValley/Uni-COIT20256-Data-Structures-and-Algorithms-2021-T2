@@ -28,28 +28,28 @@ This repo will include:
 
 ### Useful links:
 
-* Course web page: https://moodle.cqu.edu.au/course/view.php?id=21851
+* **Course web page:** https://moodle.cqu.edu.au/course/view.php?id=21851
 
-* This Github Repo: https://github.com/MooseValley/COIT20256-Data-Structures-and-Algorithms-2021-T2
+* **This Github Repo:** https://github.com/MooseValley/COIT20256-Data-Structures-and-Algorithms-2021-T2
 
-* Mike O'Malley's Java Videos (many dozes of useful videos for Java programmers of all levels !):
+* **Mike O'Malley's Java Videos** (many dozes of useful videos for Java programmers of all levels !):
 <br>http://tinyurl.com/MikesJavaVideos
 
-* Backups - How To:
+* **Backups - How To:**
 How to keep backups and SECURE backups on Windows PCs.
 <br>https://www.youtube.com/watch?v=Du7dk3hdG-M
 
-* Github Basics:
+* **Github Basics:**
 Github Basics / How to use GitHub.
 A FREE backup of your work in the cloud.  You are going to be using Github or something like if you go on to be a software developer in the future.
 I show you 2 ways to use Github (web browser and command line)
 and briefly discuss other ways (Desktop App, Netbeans, Eclipse, develop your own Github Client, etc)
 <br>https://www.youtube.com/watch?v=A30iwpDbkwc
 
-* Mike O's Programming Practice Questions - v0.008 (PDF):
+* **Mike O's Programming Practice Questions** - v0.008 (PDF):
 Dozens of interesting programming questions for you to practice, explore, solve.
 <br>https://www.mediafire.com/file/dpk59wchfu715to/Mike_O%27s_Programming_Practice_Questions_-_v0.008.pdf/file
 
-Mike O'Malley
+**Mike O'Malley**
 <br>Email: m.omalley@cqu.edu.au
 
