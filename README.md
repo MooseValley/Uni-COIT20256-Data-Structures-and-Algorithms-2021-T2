@@ -12,18 +12,18 @@ This repo will include:
 * CC: Dr. Jacqueline Jarvis, Brisbane Campus, Contact: +61-07-3023-4238, Email: j.jarvis@cqu.edu.au
 * Rocky Tutor: Mike O, email: m.omalley@cqu.edu.au
 
-### Golden Rules:
+### Golden Rules for Success:
 * This is a programming course, the emphasis is on you doing lots of programming, exploring a wide range of problems, writing lots of code to ensure you understand all of the course topics, and keeping up with the work each week.
 * The student study requirement for this course is **12 hours per week minimum**: most of this time should be spent writing code to solve problems and explore the course topics.
 * If you are struggling or fall behind, you may need to do a more than 12 hours per week.
-* Start work on assignments and assessment items *at least* 3 weeks prior to the due date.
-
+* Start work on Assignments **at least 3 weeks prior to the due date.**
+* Ensure the required course software (Java SDK, Netbeans, etc) is installed and you get the practice you need to become comfortable with this as soon as possible. Hint: Week 1.
 
 ### Need help:
 * Course forums for all tutorial question and course / topic related questions.
 * Contact the CC directly if you need help on your assignment:
 * NOTE: Mike O is employed by CQUni for 2 hours per week ONLY - for the tutorial class.
-* I will answer quick questions via email, but long / involved questions should be asked on the forums or in class.
+* I can answer quick questions via email, but long / involved questions should be asked on the forums or in class.
 
 
 ### Useful links:
