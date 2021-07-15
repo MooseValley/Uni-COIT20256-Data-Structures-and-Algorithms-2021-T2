@@ -1,0 +1,32 @@
+******************************************************
+COIT20256 Data Structures and Algorithms (2021-T2)
+Week: 02
+Course WEB Page (Moodle):         https://moodle.cqu.edu.au/course/view.php?id=21851
+Course Coordinator:               Dr. Jacqueline Jarvis, Brisbane Campus, Contact: +61-07-3023-4238, Email: j.jarvis@cqu.edu.au
+Rocky Teacher (Part-Time):        Mike O'Malley, m.omalley@cqu.edu.au
+Mike O's GitHub for course/term:  https://github.com/MooseValley/Uni-COIT20256-Data-Structures-and-Algorithms-2021-T2
+Mike O'Malley's Java Videos:      http://tinyurl.com/MikesJavaVideos
+******************************************************
+
+ROAD MAP:
+Week 01 - Classes and Objects: A Deeper Look
+Week 02 - Inheritance    <--- YOU ARE HERE !
+Week 03 - Polymorphism
+Week 04 - JavaFX GUI and Event-Driven
+Week 05 - Generic Collections: Lists, Sets, Maps, and Priority Queue
+Week 06 - Generic classes and methods
+Week 07 - Recursion
+Week 08 - Custom Generic Data Structures (Implementing Stacks, Queues, Binary Trees)
+Week 09 - Exception Handling, Files, Streams and Serialization
+Week 10 - Lambdas and Aggregate Operations for Collection Streams
+Week 11 - Sorting and Algorithmic Efficiency (Big-O)
+Week 12 - Graphs and applications, Final Revision
+
+
+LAST WEEK: Week 01
+* Week 01 - Classes and Objects: A Deeper Look
+
+THIS WEEK: Week 02
+* Week 02 - Inheritance    <--- YOU ARE HERE !
+
+EOF.
