@@ -1,0 +1,20 @@
+
+*.class
+
+00 - Merge ALL TXT files into one file - useful for searching.bat
+00 - Merge ALL TXT files into one file - useful for searching.txt
+00*.txt
+00*.bat
+
+#*.zip
+#*.7z
+/Week 02/Week2_Q1/Week2Q1/nbproject/private/
+/Week 02/Week2_Q1/Week2Q1/build/
+/Week 02/Week2Q3/Week2Q3/nbproject/private/
+/Week 02/Week2Q3/Week2Q3/build/
+
+*Tute*
+*Tutorial*
+*Solution*
+*Workshop*
+*Exercise*
