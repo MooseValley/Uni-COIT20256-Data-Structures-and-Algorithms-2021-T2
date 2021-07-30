@@ -1,5 +1,7 @@
 # Mike O'Malley's COIT20256 Data Structures and Algorithms (2021-T2)
 
+## NOTE: Classes cancelled from Week 03 onwards because no students enrolled.
+
 All of my class work will be uploaded here.
 
 This repo will include:
